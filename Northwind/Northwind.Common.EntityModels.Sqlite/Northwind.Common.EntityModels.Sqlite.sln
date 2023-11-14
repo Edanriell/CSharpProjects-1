@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.EntityModels.Sqlite", "Northwind.Common.EntityModels.Sqlite\Northwind.Common.EntityModels.Sqlite.csproj", "{2B665212-8339-4034-B9E7-13CBADFCCBC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B665212-8339-4034-B9E7-13CBADFCCBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B665212-8339-4034-B9E7-13CBADFCCBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B665212-8339-4034-B9E7-13CBADFCCBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B665212-8339-4034-B9E7-13CBADFCCBC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE56BFB9-3F1F-4E02-9DE3-FE807165984D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.deps.json
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.dll
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.DataContext.Sqlite.pdb
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.AssemblyReference.cache
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.AssemblyInfoInputs.cache
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.AssemblyInfo.cs
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.dll
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\refint\Northwind.Common.DataContext.Sqlite.dll
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.pdb
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\ref\Northwind.Common.DataContext.Sqlite.dll
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
+D:\ProjectsFromBooks\C#11And.NET7\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite\obj\Debug\net7.0\Northwind.Common.DataContext.Sqlite.csproj.CopyComplete

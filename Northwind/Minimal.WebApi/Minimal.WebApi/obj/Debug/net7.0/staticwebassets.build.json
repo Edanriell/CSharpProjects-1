@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EyN9QF3ddoE0NSTkzhqOsaPk8ZEPV7IyiLjurkM7SFs=",
+  "Source": "Minimal.WebApi",
+  "BasePath": "_content/Minimal.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Minimal.WebApi\\wwwroot",
+      "Source": "Minimal.WebApi",
+      "ContentRoot": "D:\\ProjectsFromBooks\\C#11And.NET7\\Minimal.WebApi\\Minimal.WebApi\\wwwroot\\",
+      "BasePath": "_content/Minimal.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ProjectsFromBooks\\C#11And.NET7\\Minimal.WebApi\\Minimal.WebApi\\wwwroot\\favicon.ico",
+      "SourceId": "Minimal.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjectsFromBooks\\C#11And.NET7\\Minimal.WebApi\\Minimal.WebApi\\wwwroot\\",
+      "BasePath": "_content/Minimal.WebApi",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
